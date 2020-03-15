@@ -1,0 +1,5 @@
+# Php_and_MySql
+This is a project representing a bookstore site. Data is kept in mysql and the preoject is realised in native php+boostrep 4. Also is used javascript,
+jquery and ajax for minimal use.
+Admin can edit books(prince, available quanitiy etc) and delete users and generate PDF reports.
+User can order books.
